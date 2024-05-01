@@ -16,11 +16,11 @@ import (
 
 var db *sql.DB
 
-var server = "localhost"
-var port = 1433
-var user = "sa"
-var password = "Prajjwal@18"
-var database = "master"
+var server = ""
+var port = 
+var user = ""
+var password = ""
+var database = ""
 
 func init() {
 
